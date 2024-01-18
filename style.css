@@ -27,3 +27,9 @@ img {
     width: 960px;
     margin: 0 auto;
  }
+
+ header {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+ }
